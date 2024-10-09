@@ -89,14 +89,14 @@ paginate = 6
   name = "{Budi|Joko|Andi|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
   message = "{Saya {menggunakan|memanfaatkan|memakai} layanan {pemasangan|instalasi|penyediaan} rolling door dari rolling.bangunan.co untuk {garasi|pintu garasi|tempat parkir} rumah saya. Hasilnya {sangat rapi|terlihat rapi|rapi sekali|sangat bersih} dan {berkualitas tinggi|bermutu|luar biasa|premium}.|Layanan rolling.bangunan.co {membantu saya|membimbing saya|memberikan solusi untuk saya} dalam {memasang|menginstal|pemasangan} rolling door di garasi rumah saya. Hasil akhirnya {memuaskan|mengesankan|memenuhi harapan|melebihi ekspektasi} dan {rapi|sangat rapi|tertata dengan baik}.}"
   response = "{Terima kasih atas {kepercayaan|pilihan|dukungan} Anda! Kami senang dapat {menyediakan|menghadirkan|memberikan} rolling door {berkualitas|premium|bermutu} untuk {proyek|rumah|keperluan} Anda.|Kami sangat menghargai {kepercayaan|pilihan|keputusan} Anda. Terima kasih telah {memilih|mempercayai|menggunakan} produk kami!}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar2.png"
   name = "{Siti|Dewi|Rina|Maya|Lina|Sari|Fitri|Nur|Diah|Ayu}"
   message = "{rolling.bangunan.co {membantu|mempermudah|mengarahkan} saya dalam {memilih|menentukan|memilah} dan {memasang|menginstal|menyediakan} rolling door yang {sangat sesuai|cocok sekali|tepat} dengan {kebutuhan|keperluan|preferensi} saya. Pelayanannya {memuaskan|sangat baik|luar biasa|ramah dan profesional}.|Saya sangat terbantu oleh rolling.bangunan.co dalam {memilih|memilah|menentukan} dan {memasang|menginstal|menyediakan} rolling door yang {sesuai|cocok|tepat} dengan kebutuhan saya. Pelayanannya {memuaskan|profesional|ramah}.}"
   response = "{Kami sangat menghargai ulasan Anda. {Senang mendengar|Kami gembira mengetahui|Bahagia mengetahui} bahwa Anda puas dengan rolling door dari kami.|Terima kasih atas ulasannya! Kami {senang|gembira|bahagia} Anda puas dengan {produk|layanan} dan {produk|solusi} kami.}"
-  rating = 4.6
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar3.png"
@@ -110,7 +110,7 @@ paginate = 6
   name = "{Andi|Bayu|Fajar|Hendra|Dian|Rizky|Yoga|Yudi|Ari|Gani}"
   message = "{Saya sangat puas dengan {hasil|kualitas|proses} pemasangan rolling door dari rolling.bangunan.co. Pintu garasi saya terlihat {modern|elegan|keren} dan sangat {fungsional|praktis|berguna}.|Rolling door yang dipasang oleh rolling.bangunan.co membuat garasi saya tampak {modern|elegan|stylish} dan sangat {berguna|fungsional|efisien}.}"
   response = "{Senang mendengar Anda puas dengan {layanan|produk|hasil kerja} kami. Terima kasih atas {kepercayaannya|kepercayaannya|dukungan Anda}!|Kami {senang|bahagia|gembira} Anda puas dengan hasilnya. Terima kasih atas {kepercayaan|dukungan} Anda!}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar5.png"
@@ -124,7 +124,7 @@ paginate = 6
   name = "{Eko|Agus|Dedi|Toni|Yanto|Wawan|Benny|Rio|Iwan|Galih}"
   message = "{Rolling door dari rolling.bangunan.co sangat {sesuai|cocok|tepat} untuk garasi saya. Proses pemasangan {cepat|efisien|singkat} dan {aman|lancar|berjalan mulus}.|Saya sangat puas dengan {produk|rolling door} dari rolling.bangunan.co. Proses pemasangan {aman|lancar|terorganisir} dan {cepat|efisien|singkat}.}"
   response = "{Kami senang mendengar bahwa Anda puas dengan produk kami. Terima kasih atas {ulasannya|tanggapan positifnya}!|Terima kasih telah {mempercayai|menggunakan|memilih} kami untuk proyek ini. Kami {senang|bahagia|gembira} Anda puas dengan hasilnya.}"
-  rating = 4.8
+  rating = 4
 
 [[params.tabelItems]]
   name = "Pasang Rolling Door Garasi"
