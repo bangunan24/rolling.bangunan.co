@@ -1,53 +1,57 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Samsul
-    message: >-
-      Saya memanfaatkan layanan instalasi rolling door dari rolling.bangunan.co
-      untuk pintu garasi rumah saya. Hasilnya sangat bersih dan luar biasa.
-    response: >-
-      Terima kasih atas pilihan Anda! Kami senang dapat memberikan rolling door
-      premium untuk proyek Anda.
-    rating: '{4.5|5}'
-  - avatar: /images/admin/avatar2.png
-    name: Sari
-    message: >-
-      Saya sangat terbantu oleh rolling.bangunan.co dalam memilah dan
-      menyediakan rolling door yang sesuai dengan kebutuhan saya. Pelayanannya
-      ramah.
-    response: >-
-      Kami sangat menghargai ulasan Anda. Bahagia mengetahui bahwa Anda puas
-      dengan rolling door dari kami.
-    rating: '{4.6|5}'
-  - avatar: /images/admin/avatar3.png
-    name: Joko
-    message: >-
-      Saya sangat puas dengan rolling door untuk ruko saya. Layanan
-      rolling.bangunan.co efisien dan berkualitas.
-    response: Kami apresiasi ulasan Anda. Terima kasih telah mempercayai kami!
-    rating: '{4|4.5}'
-  - avatar: /images/admin/avatar4.png
-    name: Yudi
-    message: >-
-      Saya sangat puas dengan hasil pemasangan rolling door dari
-      rolling.bangunan.co. Pintu garasi saya terlihat modern dan sangat
-      fungsional.
-    response: Kami bahagia Anda puas dengan hasilnya. Terima kasih atas dukungan Anda!
-    rating: '{4.5|5}'
-  - avatar: /images/admin/avatar5.png
-    name: Maya
-    message: >-
-      Saya sangat puas dengan layanan rolling.bangunan.co. Rolling door yang
-      dipesan luar biasa dan sesuai ekspektasi.
-    response: >-
-      Kami terima kasih atas ulasan Anda. Terima kasih telah memilih kami untuk
-      proyek Anda!
-    rating: '{4.6|5}'
-  - avatar: /images/admin/avatar6.png
     name: Eko
     message: >-
-      Saya sangat puas dengan rolling door dari rolling.bangunan.co. Proses
-      pemasangan aman dan cepat.
+      Saya memanfaatkan layanan instalasi rolling door dari rolling.bangunan.co
+      untuk pintu garasi rumah saya. Hasilnya sangat bersih dan berkualitas
+      tinggi.
     response: >-
-      Kami senang mendengar bahwa Anda puas dengan produk kami. Terima kasih
-      atas tanggapan positifnya!
+      Kami sangat menghargai keputusan Anda. Terima kasih telah mempercayai
+      produk kami!
+    rating: '{4.5|5}'
+  - avatar: /images/admin/avatar2.png
+    name: Diah
+    message: >-
+      Saya sangat terbantu oleh rolling.bangunan.co dalam memilih dan
+      menyediakan rolling door yang cocok dengan kebutuhan saya. Pelayanannya
+      profesional.
+    response: >-
+      Terima kasih atas ulasannya! Kami senang Anda puas dengan layanan dan
+      solusi kami.
+    rating: '{4.6|5}'
+  - avatar: /images/admin/avatar3.png
+    name: Gilang
+    message: >-
+      Rolling door dari rolling.bangunan.co sangat sesuai untuk proyek properti
+      komersial saya. Pemasangannya efisien dan tepat waktu.
+    response: >-
+      Terima kasih! Kami berkomitmen untuk memberikan layanan terbaik dengan
+      produk unggulan.
+    rating: '{4|4.5}'
+  - avatar: /images/admin/avatar4.png
+    name: Andi
+    message: >-
+      Rolling door yang dipasang oleh rolling.bangunan.co membuat garasi saya
+      tampak elegan dan sangat berguna.
+    response: >-
+      Senang mendengar Anda puas dengan layanan kami. Terima kasih atas
+      kepercayaannya!
+    rating: '{4.5|5}'
+  - avatar: /images/admin/avatar5.png
+    name: Sari
+    message: >-
+      Saya sangat puas dengan pelayanan rolling.bangunan.co. Rolling door yang
+      dipesan bermutu dan sesuai ekspektasi.
+    response: >-
+      Terima kasih! Kami senang dapat membantu dengan proyek Anda dengan rolling
+      door terbaik.
+    rating: '{4.6|5}'
+  - avatar: /images/admin/avatar6.png
+    name: Rio
+    message: >-
+      Rolling door dari rolling.bangunan.co sangat sesuai untuk garasi saya.
+      Proses pemasangan singkat dan aman.
+    response: >-
+      Terima kasih telah mempercayai kami untuk proyek ini. Kami bahagia Anda
+      puas dengan hasilnya.
     rating: '{5|4.8}'
