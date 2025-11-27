@@ -1,57 +1,55 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Eko
+    name: Samsul
     message: >-
-      Saya memanfaatkan layanan instalasi rolling door dari rolling.bangunan.co
-      untuk pintu garasi rumah saya. Hasilnya sangat bersih dan berkualitas
-      tinggi.
+      Layanan rolling.bangunan.co membantu saya dalam menginstal rolling door di
+      garasi rumah saya. Hasil akhirnya mengesankan dan sangat rapi.
     response: >-
-      Kami sangat menghargai keputusan Anda. Terima kasih telah mempercayai
-      produk kami!
+      Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih produk
+      kami!
     rating: '{4.5|5}'
   - avatar: /images/admin/avatar2.png
-    name: Diah
+    name: Maya
     message: >-
-      Saya sangat terbantu oleh rolling.bangunan.co dalam memilih dan
-      menyediakan rolling door yang cocok dengan kebutuhan saya. Pelayanannya
-      profesional.
+      Saya sangat terbantu oleh rolling.bangunan.co dalam memilih dan menginstal
+      rolling door yang sesuai dengan kebutuhan saya. Pelayanannya ramah.
     response: >-
-      Terima kasih atas ulasannya! Kami senang Anda puas dengan layanan dan
+      Terima kasih atas ulasannya! Kami bahagia Anda puas dengan layanan dan
       solusi kami.
     rating: '{4.6|5}'
   - avatar: /images/admin/avatar3.png
-    name: Gilang
+    name: Rizal
     message: >-
-      Rolling door dari rolling.bangunan.co sangat sesuai untuk proyek properti
-      komersial saya. Pemasangannya efisien dan tepat waktu.
+      Rolling door dari rolling.bangunan.co sangat cocok untuk proyek tempat
+      usaha saya. Pemasangannya cepat dan profesional.
     response: >-
-      Terima kasih! Kami berkomitmen untuk memberikan layanan terbaik dengan
-      produk unggulan.
+      Terima kasih! Kami dedikasi untuk memberikan layanan terbaik dengan produk
+      premium.
     rating: '{4|4.5}'
   - avatar: /images/admin/avatar4.png
     name: Andi
     message: >-
       Rolling door yang dipasang oleh rolling.bangunan.co membuat garasi saya
-      tampak elegan dan sangat berguna.
+      tampak stylish dan sangat efisien.
     response: >-
-      Senang mendengar Anda puas dengan layanan kami. Terima kasih atas
+      Senang mendengar Anda puas dengan hasil kerja kami. Terima kasih atas
       kepercayaannya!
     rating: '{4.5|5}'
   - avatar: /images/admin/avatar5.png
-    name: Sari
+    name: Fitri
     message: >-
       Saya sangat puas dengan pelayanan rolling.bangunan.co. Rolling door yang
-      dipesan bermutu dan sesuai ekspektasi.
+      dipesan luar biasa dan sesuai ekspektasi.
     response: >-
       Terima kasih! Kami senang dapat membantu dengan proyek Anda dengan rolling
       door terbaik.
     rating: '{4.6|5}'
   - avatar: /images/admin/avatar6.png
-    name: Rio
+    name: Iwan
     message: >-
-      Rolling door dari rolling.bangunan.co sangat sesuai untuk garasi saya.
-      Proses pemasangan singkat dan aman.
+      Rolling door dari rolling.bangunan.co sangat tepat untuk garasi saya.
+      Proses pemasangan cepat dan lancar.
     response: >-
-      Terima kasih telah mempercayai kami untuk proyek ini. Kami bahagia Anda
+      Terima kasih telah menggunakan kami untuk proyek ini. Kami senang Anda
       puas dengan hasilnya.
     rating: '{5|4.8}'
