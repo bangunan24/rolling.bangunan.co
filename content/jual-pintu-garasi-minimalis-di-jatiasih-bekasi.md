@@ -1,6 +1,6 @@
 ---
 title: Jual Pintu Garasi Minimalis di Jatiasih Bekasi
-date: '2025-08-01'
+date: '2026-08-01'
 categories:
   - harga
 description: >-
